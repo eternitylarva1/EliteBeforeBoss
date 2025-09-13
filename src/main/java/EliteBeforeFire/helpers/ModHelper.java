@@ -1,8 +1,8 @@
-package FakeFire.helpers;
+package EliteBeforeFire.helpers;
 
 public class ModHelper {
     public static String makePath(String id) {
-        return "fakefire:" + id;
+        return "eliteBeforeFire:" + id;
     }
 
 }

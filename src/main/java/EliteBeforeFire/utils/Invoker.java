@@ -1,4 +1,4 @@
-package FakeFire.utils;
+package EliteBeforeFire.utils;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;

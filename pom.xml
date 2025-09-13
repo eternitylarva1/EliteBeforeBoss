@@ -5,14 +5,14 @@
     <modelVersion>4.0.0</modelVersion>
 
     <!-- 改成你需要的名称 -->
-    <groupId>FakeFire</groupId>
+    <groupId>EliteBeforeFire</groupId>
     <!-- 改成你需要的名称 -->
-    <artifactId>FakeFire</artifactId>
+    <artifactId>EliteBeforeFire</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <!-- 改成你需要的名称 -->
-    <name>FakeFire</name>
+    <name>EliteBeforeFire</name>
     <!-- 改不改由你 -->
     <description>a sts mod.</description>
 
